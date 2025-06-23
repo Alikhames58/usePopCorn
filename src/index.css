@@ -63,7 +63,7 @@ body {
 
 .main {
   margin-top: 3.2rem;
-  padding: 0 3.2rem 3.2rem;
+  padding: 0 ;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3.2rem;
